@@ -43,17 +43,3 @@ Welcome to the **Institute Website Clone**, a meticulously crafted frontend proj
 │   ├── js/               # JavaScript files
 │   └── images/           # Images and media files
 └── README.md             # Project documentation
-
----
-
-## 🤝 **Collaboration**
-
-We’re inviting **developers, designers, and enthusiasts** to collaborate on this project and make it even better! Here's how you can contribute:
-
-1. **Fork the Repository**:  
-   Click on the **Fork** button at the top-right corner of this repository to create your own copy.
-
-2. **Clone Your Forked Repository**:  
-   ```bash
-   git clone https://github.com/yourusername/institute-website-clone.git
-   cd institute-website-clone
