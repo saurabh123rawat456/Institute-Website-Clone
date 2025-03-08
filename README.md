@@ -28,6 +28,18 @@ Welcome to the **Institute Website Clone**, a meticulously crafted frontend proj
 
 ---
 
+## 🌐 Check it Live 
+
+👉 [**View Website!**](https://saurabh123rawat456.github.io/Institute-Website-Clone/)
+
+---
+
+## 🤝 **Collaboration**
+
+We’re inviting **developers, designers, and enthusiasts** to collaborate on this project and make it even better! Whether you want to **contribute**, **review**, or simply **explore the project**, you’re more than welcome.
+
+---
+
 ## 📂 **Project Structure**
 
 ```plaintext
@@ -43,3 +55,5 @@ Welcome to the **Institute Website Clone**, a meticulously crafted frontend proj
 │   ├── js/               # JavaScript files
 │   └── images/           # Images and media files
 └── README.md             # Project documentation
+
+
